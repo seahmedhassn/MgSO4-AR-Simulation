@@ -1,0 +1,13 @@
+/Library/
+/Temp/
+/Obj/
+/Logs/
+/UserSettings/
+*.csproj
+*.sln
+
+# local-only
+/Builds/
+/build/
+/Packages/com.ptc.vuforia.engine-*.tgz
+/Assets/Resources/VuforiaLicense.txt*

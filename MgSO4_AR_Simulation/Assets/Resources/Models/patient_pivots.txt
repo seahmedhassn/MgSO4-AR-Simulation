@@ -1,0 +1,10 @@
+# patient pivots (patient space unless noted; right side = +z). Written by BuildLogs/patient_textured.py
+head_centre -0.7722 0.1272 0.0000
+trunk_pivot -0.4845 0.0000 0.0000
+shoulderR -0.5885 0.0911 0.1543
+hipR -0.1490 0.0874 0.0952
+kneeR_rel_hip 0.3471 0.0062 0.0536
+mask_on_face 0.0207 0.1250 -0.0000
+lidR_centre -0.0219 0.0800 0.0283
+lid_size 0.0162 0.0090 0.0313
+cannula_on_armL 0.3703 -0.0185 -0.0875
